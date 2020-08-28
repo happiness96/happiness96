@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-</div align=center>
+<div align=center>
   [![http://mazassumnida.wtf/api/generate_badge?boj=happiness96](http://mazassumnida.wtf/api/v2/generate_badge?boj=happiness96)](https://solved.ac/happiness96)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhappiness96hit-counter&count_bg=%237EB3FF&title_bg=%23FFE5E5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 <!--
 **happiness96/happiness96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
