@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align=center>
-  ![happiness96's github stats](https://github-readme-stats.vercel.app/api?username=happiness96&show_icons=true)
+  ![happiness96's github stats](https://github-readme-stats.vercel.app/api?username=forever_happiness&show_icons=true)
   
   [![http://mazassumnida.wtf/api/generate_badge?boj=happiness96](http://mazassumnida.wtf/api/v2/generate_badge?boj=happiness96)](https://solved.ac/happiness96)
 
