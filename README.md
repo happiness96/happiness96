@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <div align=center>
-  ![happiness96's github stats](https://github-readme-stats.vercel.app/api?username=forever_happiness&show_icons=true)
-  
   [![http://mazassumnida.wtf/api/generate_badge?boj=happiness96](http://mazassumnida.wtf/api/v2/generate_badge?boj=happiness96)](https://solved.ac/happiness96)
 
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ametrine96/?hl=ko)](https://www.instagram.com/ametrine96/?hl=ko)
