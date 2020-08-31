@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning `Data Analysis`, `Artificial Intelligence`, `Algorithm`
 - 📫 How to reach me: daewonkim.mate@gmail.com
 - Baekjoon: https://www.acmicpc.net/user/happiness96
+- Tistory: https://foreverhappiness.tistory.com/
 
 <div align=center>
   
