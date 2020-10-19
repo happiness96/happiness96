@@ -4,6 +4,7 @@
 - 📫 How to reach me: daewonkim.mate@gmail.com
 - Baekjoon: https://www.acmicpc.net/user/happiness96
 - Tistory: https://foreverhappiness.tistory.com/
+- Github blog: https://happiness96.github.io/
 
 <div align=center>
   
