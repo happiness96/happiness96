@@ -21,6 +21,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=happiness96.happiness96)
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhappiness96hit-counter&count_bg=%237EB3FF&title_bg=%23FFE5E5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![](https://img.shields.io/github/followers/happiness96?style=social)
 
 </div>
 <!--
