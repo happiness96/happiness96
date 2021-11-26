@@ -13,12 +13,13 @@ I majored in computer engineering💻 and control measurement engineering⚙, an
 **I'm ENFJ.**
 I like to learn new knowledge in IT field 🖱. Of course, I like coding and I like to interact with various people through open communication with people. 🌏🌎🌍
 I currently run **code:us**, an IT industry support organization to spread coding to many people, including non-majors. And I have a passion to raise this organization around the world. I hope many people will get help. I like people with deep will to learn.💪
+<!--Badge -->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daewonkim.mate@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ametrine96/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/happiness96)
 
 <div align=center>
-  <!--Badge -->
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daewonkim.mate@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ametrine96/)
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/happiness96)
+  
   
   [![forever_happiness's github stats](https://github-readme-stats.vercel.app/api?username=happiness96&show_icons=true&theme=buefy)](https://github.com/happiness96/github-readme-stats)
   [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=happiness96&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
