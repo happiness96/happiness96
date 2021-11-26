@@ -16,9 +16,9 @@ I currently run **code:us**, an IT industry support organization to spread codin
 
 <div align=center>
   <!--Badge -->
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daewonkim.mate@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ametrine96/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/happiness96)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daewonkim.mate@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ametrine96/)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/happiness96)
   
   [![forever_happiness's github stats](https://github-readme-stats.vercel.app/api?username=happiness96&show_icons=true&theme=buefy)](https://github.com/happiness96/github-readme-stats)
   [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=happiness96&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
