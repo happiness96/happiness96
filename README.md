@@ -40,7 +40,7 @@ I currently run **code:us**, an IT industry support organization to spread codin
 * 🎉 Winning the data analysis competitions.
 * ✈ Studying English to use it fluently.
 
-
+<br>
 <div align=center>
   [![forever_happiness's github stats](https://github-readme-stats.vercel.app/api?username=happiness96&show_icons=true&theme=buefy)](https://github.com/happiness96/github-readme-stats)
   [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=happiness96&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
