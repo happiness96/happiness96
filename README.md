@@ -40,17 +40,15 @@ I currently run **code:us**, an IT industry support organization to spread codin
 * 🎉 Winning the data analysis competitions.
 * ✈ Studying English to use it fluently.
 
-<br>
-<div align=center>
-  [![forever_happiness's github stats](https://github-readme-stats.vercel.app/api?username=happiness96&show_icons=true&theme=buefy)](https://github.com/happiness96/github-readme-stats)
-  [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=happiness96&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=happiness96)](https://solved.ac/happiness96)
-  
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=happiness96)](https://solved.ac/happiness96)
+
+[![forever_happiness's github stats](https://github-readme-stats.vercel.app/api?username=happiness96&show_icons=true&theme=buefy)](https://github.com/happiness96/github-readme-stats)
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=happiness96&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=happiness96)](https://solved.ac/happiness96)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=happiness96)](https://solved.ac/happiness96)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=happiness96.happiness96)
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhappiness96hit-counter&count_bg=%237EB3FF&title_bg=%23FFE5E5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://img.shields.io/github/followers/happiness96?style=social)
 
-</div>
