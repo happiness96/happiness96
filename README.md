@@ -60,23 +60,22 @@ I currently run **code:us**, an IT industry support organization to spread codin
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-### Framework
+### Frameworks
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happiness96&layout=compact&theme=buefy"/>
-  </a>
-  
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 
 <p>
-  <a href="https://solved.ac/happiness96">
-    <img align="right" alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=happiness96"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happiness96&layout=compact&theme=buefy"/>
   </a>
   <a href="https://solved.ac/happiness96">
-    <img align="right" alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=happiness96"/>
+    <img align="center" alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=happiness96"/>
+  </a>
+  <a href="https://solved.ac/happiness96">
+    <img align="center" alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=happiness96"/>
   </a>
 </p>
 
