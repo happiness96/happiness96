@@ -40,8 +40,17 @@ I currently run **code:us**, an IT industry support organization to spread codin
 * 🎉 Winning the data analysis competitions.
 * ✈ Studying English to use it fluently.
 
+<br>
 
-[![forever_happiness's github stats](https://github-readme-stats.vercel.app/api?username=happiness96&show_icons=true&theme=buefy)](https://github.com/happiness96/github-readme-stats)
+**Languages**
+<p>
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img width="55%" align="right" alt="happiness96's github stats" src="https://github-readme-stats.vercel.app/api?username=happiness96&show_icons=true&theme=buefy"/>
+  </a>
+  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+</p>
+
 [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=happiness96&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=happiness96)](https://solved.ac/happiness96)
 
