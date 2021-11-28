@@ -67,6 +67,13 @@ I currently run **code:us**, an IT industry support organization to spread codin
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/>
+</p>
+
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happiness96&layout=compact&theme=buefy"/>
@@ -74,12 +81,11 @@ I currently run **code:us**, an IT industry support organization to spread codin
   <a href="https://solved.ac/happiness96">
     <img align="center" alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=happiness96"/>
   </a>
-  <a href="https://solved.ac/happiness96">
-    <img align="center" alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=happiness96"/>
-  </a>
 </p>
 
-
+<a href="https://solved.ac/happiness96">
+  <img align="center" alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=happiness96"/>
+</a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=happiness96.happiness96)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhappiness96hit-counter&count_bg=%237EB3FF&title_bg=%23FFE5E5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Followers](https://img.shields.io/github/followers/happiness96?style=social)
