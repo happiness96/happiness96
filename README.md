@@ -48,30 +48,31 @@ I currently run **code:us**, an IT industry support organization to spread codin
   <a href="https://github.com/onimur/handle-path-oz">
     <img width="55%" align="right" alt="happiness96's github stats" src="https://github-readme-stats.vercel.app/api?username=happiness96&show_icons=true&theme=buefy"/>
   </a>
-  ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Html5](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="55%" align="right" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happiness96&layout=compact&theme=buefy"/>
+    <img align="right" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happiness96&layout=compact&theme=buefy"/>
   </a>
 </p>
 
 <p>
   <a href="https://solved.ac/happiness96">
-    <img width="55%" align="right" alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=happiness96"/>
+    <img align="right" alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=happiness96"/>
   </a>
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=happiness96)](https://solved.ac/happiness96)
+  <a href="https://solved.ac/happiness96">
+    <img align="right" alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=happiness96"/>
+  </a>
 </p>
 
 
