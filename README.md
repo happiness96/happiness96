@@ -40,15 +40,10 @@ I currently run **code:us**, an IT industry support organization to spread codin
 * 🎉 Winning the data analysis competitions.
 * ✈ Studying English to use it fluently.
 
-<br>
-<br>
+---
 
 ### Languages
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="happiness96's github stats" src="https://github-readme-stats.vercel.app/api?username=happiness96&show_icons=true&theme=buefy"/>
-  </a>
-  
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -65,19 +60,50 @@ I currently run **code:us**, an IT industry support organization to spread codin
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&d&logo=django&logoColor=white"/>
 </p>
 
 ### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MACHBASE-blue?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+</p>
+
+### Dev IDE & Tools
+<p>
+  <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&d&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/visual_studio-5C2D91?style=for-the-badge&d&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&d&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&d&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jupyter_notebook-F37626?style=for-the-badge&d&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/colab-F9AB00?style=for-the-badge&d&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&d&logo=eclipse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&d&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&d&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/atom-66595C?style=for-the-badge&d&logo=atom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/clion-000000?style=for-the-badge&d&logo=clion&logoColor=white"/>
+</p>
+
+### Team Collaborations Tools
+<p>
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&d&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gather_town-blue?style=for-the-badge&d&logoColor=white"/>
+</p>
+
+### Design Tools
+<p>
+  <img src="https://img.shields.io/badge/adobe_photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobe_after_effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobe_premiere_pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 </p>
 
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happiness96&layout=compact&theme=buefy"/>
-  </a>
   <a href="https://solved.ac/happiness96">
     <img align="center" alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=happiness96"/>
   </a>
