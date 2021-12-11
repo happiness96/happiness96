@@ -41,7 +41,7 @@ I currently run **code:us**, an IT industry support organization to spread codin
 * ✈ Studying English to use it fluently.
 
 ---
-## Skills
+<!-- ## Skills
 ### 😺 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -105,7 +105,7 @@ I currently run **code:us**, an IT industry support organization to spread codin
   <img src="https://img.shields.io/badge/adobe_photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobe_after_effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobe_premiere_pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-</p>
+</p> -->
 
 <br>
 
