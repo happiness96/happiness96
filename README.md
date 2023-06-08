@@ -38,14 +38,6 @@ I like to learn new knowledge in IT field 🖱. Of course, I like coding and I l
 
 <br>
 
-<p>
-  <a href="https://solved.ac/happiness96">
-    <img align="center" alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=happiness96"/>
-  </a>
-</p>
-
-![solved](http://mazassumnida.wtf/api/mini/generate_badge?boj=happiness96)
-
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=happiness96.happiness96"/>
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhappiness96hit-counter&count_bg=%237EB3FF&title_bg=%23FFE5E5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
